@@ -1,0 +1,19 @@
+
+var ftGUID_1252891="27506E6C4B6FA3";
+var ftConfID_1252891="0";
+var ftParams_1252891="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_ifb=1&ft_domain=tpc.googlesyndication.com&ft_referrer=http%3A%2F%2Ftpc.googlesyndication.com%2Fsafeframe%2F1-0-2%2Fhtml%2Fcontainer.html&cachebuster=947547.4818609655";
+var ftKeyword_1252891="";
+var ftCustom_1252891="";
+var ftSection_1252891="";
+var ftSegment_1252891="g9u,gyc,g9uBWI_BUD_20151118_20151118,g2x,g5q,g5n";
+var ftSegmentList_1252891=[{s:'g9u',t:27500000},{s:'gyc'},{m:'g9u_v',s:'g9uBWI_BUD_20151118_20151118',t:27500000},{s:'g2x'},{s:'g5q'},{s:'g5n'}];
+var ftRuleMatch_1252891="0";
+var ftTimestamp_1252891="1436893559";
+var ftImp1252891 = {};
+ftImp1252891.privacy = "x";
+ftImp1252891.guidAge = "1";
+ftImp1252891.npID = "1066490";
+
+
+document.write('<scr'+'ipt src="http://cdn.flashtalking.com/xre/125/1252891/988367/js/j-1252891-988367.js" id="ftscript_m1252891" name="ftscript_m1252891"></scr'+'ipt>');
+                    
